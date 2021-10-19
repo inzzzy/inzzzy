@@ -1,12 +1,12 @@
 Music producer from Croatia with an interest and ambition to work in Cybersecurity and Penetration Testing.
 I'm still a relative begginer, but I hope to have the OSCP certificate by next year!
 
-### I mainly code with:
+### I mainly code/work with:
   - Python 
+  - Bash
   
 ### Other languages I've used/learned:
   - C
-  - Bash
   - Assembly
   
 ### Currently interested in:
