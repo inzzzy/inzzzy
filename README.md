@@ -12,7 +12,7 @@ I'm still a relative begginer, but I hope to have the OSCP certificate by next y
 ### Currently interested in:
   - Cybersecurity
       - Penetration Testing
-      - Web Exploitation (OWASP 10)
+      - Web Exploitation 
       - Binary Exploitation
       - Shellcode
       - Exploit Development
